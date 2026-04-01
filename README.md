@@ -35,6 +35,7 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 ## Data Dictonary:
 
+
 ## Queries:
 
 ## Database Information: 

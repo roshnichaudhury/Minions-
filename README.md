@@ -11,6 +11,7 @@
 5. Samira Gulyamov - SQL Writer
 
 ## Problem Description:
+The task at hand is to model and build a relational database for the Wilderness Exploration Society (WES) at Peachtree State University. The purpose of the database is to 
 
 ## Data Model:
 

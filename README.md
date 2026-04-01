@@ -18,7 +18,8 @@ Our proposed extension to the case was to introduce a system for maintenance tra
 ## Data Model:
 Our data model is based on the structure of the Wilderness Exploration Society (WES), an organization that manages outdoor trips and equipment rentals for university members and guests. The Customer entity represents all individuals who interact with the WES, including all students, faculty, alumni, and guests. Because guests must be sponsered by a university member, 
 
-<img width="1184" height="1079" alt="FINAL_MODEL" src="https://github.com/user-attachments/assets/6254ab20-ddcf-4f0e-8fa2-4e1900a8c9a8" />
+<img width="500" height="455" alt="FINAL_MODEL" src="https://github.com/user-attachments/assets/6254ab20-ddcf-4f0e-8fa2-4e1900a8c9a8" />
+
 ## Data Dictonary:
 
 ## Queries:

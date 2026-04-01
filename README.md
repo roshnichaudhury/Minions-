@@ -30,7 +30,8 @@ The equipment rental process itself is handled through the Rental_agreement enti
 
 As an extension to the case, we added the Maintenance, Inspection, and Damage_Report entities that are all connected to Equipment_Item. This reflects our creation of a system that will track all things maintenance, from damages from inspections to breaks in equipment reported by customers. The Maintenance entity tracks repairs, costs, maintenance type, and next due dates. This has a one-to-many relationship with Equipment_item. The Inspection entity records routine checks, including results and future inspection dates. The Damage_Report entity captures damage incidents, severity, repair needs, and associated charges. Each of these entities is also linked to the Staff entity, representing which staff member performed the maintenance, inspection, or report.
 
-<img width="500" height="455" alt="FINAL_MODEL" src="https://github.com/user-attachments/assets/6254ab20-ddcf-4f0e-8fa2-4e1900a8c9a8" />
+<img width="525" height="475" alt="Final" src="https://github.com/user-attachments/assets/d0d19807-f0c1-48ee-a68a-3063da119c10" />
+
 
 ## Data Dictonary:
 

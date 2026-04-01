@@ -16,6 +16,7 @@ The task at hand is to model and build a relational database for the Wilderness 
 Our proposed extension to the case was to introduce a system for maintenance tracking for equipment items and to provide a service history of the equipment. Through the addition of maintenence records, implementing inspections done by staff and adding inspection records, and finally damage reports, the database can capture operational details beyond the basic rental and registration process. This allows for a more realistic representation of the company's overall operations and supports analysis related to safety issues and all issues related to equipment damage. 
 
 ## Data Model:
+Our data model is based on the structure of the Wilderness Exploration Society (WES), an organization that manages outdoor trips and equipment rentals for university members and guests. The Customer entity represents all individuals who interact with the WES, including all students, faculty, alumni, and guests. Because guests must be sponsered by a university member, 
 
 ## Data Dictonary:
 

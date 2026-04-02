@@ -35,6 +35,15 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 ## Data Dictonary:
 
+<img width="664" height="440" alt="Screenshot 2026-04-02 at 12 13 32 PM" src="https://github.com/user-attachments/assets/b4220c7d-f0b2-4af1-9fce-d19630d9d9fa" />
+
+<img width="642" height="333" alt="Screenshot 2026-04-02 at 12 13 53 PM" src="https://github.com/user-attachments/assets/ee566d57-8b42-46fa-aeb8-d7dbe789503d" />
+
+<img width="634" height="341" alt="Screenshot 2026-04-02 at 12 14 28 PM" src="https://github.com/user-attachments/assets/74bfb699-247d-4020-80b4-85393eb41752" />
+
+
+
+
 
 ## Queries:
 

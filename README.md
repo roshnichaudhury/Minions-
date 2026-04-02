@@ -47,6 +47,21 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 <img width="652" height="358" alt="Screenshot 2026-04-02 at 12 17 20 PM" src="https://github.com/user-attachments/assets/968f943a-a52a-4c10-a010-16439af12a69" />
 
+<img width="397" height="532" alt="Screenshot 2026-04-02 at 12 21 17 PM" src="https://github.com/user-attachments/assets/f1ed3338-8ef4-45f6-a7e0-a2232fa5c35d" />
+
+<img width="580" height="591" alt="Screenshot 2026-04-02 at 12 22 07 PM" src="https://github.com/user-attachments/assets/ae66370d-d1dd-4c6c-8426-4935e098a9ef" />
+
+<img width="582" height="330" alt="Screenshot 2026-04-02 at 12 22 29 PM" src="https://github.com/user-attachments/assets/f23a46be-cf8c-4e1f-9ca6-30c79a2b5849" />
+
+<img width="577" height="278" alt="Screenshot 2026-04-02 at 12 22 44 PM" src="https://github.com/user-attachments/assets/32a2b923-4f39-4c41-9324-a1939e35a03a" />
+
+<img width="621" height="206" alt="Screenshot 2026-04-02 at 12 22 57 PM" src="https://github.com/user-attachments/assets/a0701852-5cc5-46cb-bbab-4cd27005021c" />
+
+<img width="621" height="302" alt="Screenshot 2026-04-02 at 12 23 08 PM" src="https://github.com/user-attachments/assets/0a0c454e-30ac-46b8-b8f0-93bbc2159431" />
+
+
+
+
 
 
 

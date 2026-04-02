@@ -41,6 +41,18 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 <img width="634" height="341" alt="Screenshot 2026-04-02 at 12 14 28 PM" src="https://github.com/user-attachments/assets/74bfb699-247d-4020-80b4-85393eb41752" />
 
+<img width="685" height="541" alt="Screenshot 2026-04-02 at 12 16 26 PM" src="https://github.com/user-attachments/assets/4768a6a6-b886-4dd8-89d2-a66e0142c01b" />
+
+<img width="653" height="352" alt="Screenshot 2026-04-02 at 12 17 01 PM" src="https://github.com/user-attachments/assets/7a8abc64-2fb3-4ea3-a304-4184d1f7134b" />
+
+<img width="652" height="358" alt="Screenshot 2026-04-02 at 12 17 20 PM" src="https://github.com/user-attachments/assets/968f943a-a52a-4c10-a010-16439af12a69" />
+
+
+
+
+
+
+
 
 
 

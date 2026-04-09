@@ -86,7 +86,7 @@ This query counts how many times each trip type has been registered for. It grou
 
 This query calculates the total maintenance cost for each equipment item. It adds up all maintenance expenses grouped by item number. The results are sorted from highest to lowest cost. This helps managers identify expensive equipment to maintain. It supports decisions about repairing versus replacing items. It also helps control costs and manage the maintenance budget.
 
-7.What maintenance has been completed?
+7. What maintenance has been completed?
 
 This query finds maintenance records where the status indicates completion. It uses REGEXP to match different variations of the word “completed”. This ensures that case sensitivity is not an issue. This helps managers track which maintenance tasks are finished. It ensures that equipment is properly serviced and ready for use. It also provides insight into workflow efficiency and completion rates.
 

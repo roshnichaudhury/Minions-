@@ -60,19 +60,49 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 <img width="621" height="302" alt="Screenshot 2026-04-02 at 12 23 08 PM" src="https://github.com/user-attachments/assets/0a0c454e-30ac-46b8-b8f0-93bbc2159431" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Queries:
+1. Which scheduled trips are scheduled, and who is leading them?
+   
+This query shows all scheduled trips along with the trip name and date. It also lists the staff member leading the trip and the assistant leader. The data is pulled by matching trip and staff IDs across multiple tables. This helps managers quickly see who is responsible for each trip. It ensures that every trip has proper staff coverage and leadership assigned. It can also be used to balance workloads among staff members.
+
+2. Which customers are registered for trips, and what is their registration status?
+SELECT 
+   
+This query lists customers who signed up for trips, including their names, trip details, and registration status. It also shows whether they signed the liability waiver. The results are sorted by trip date and customer name. This allows managers to monitor participation and track who is confirmed, waitlisted, or canceled. It ensures all participants have signed required waivers before attending. It also helps with planning logistics like group sizes and staffing needs.
+
+3. Which equipment items are in poor condition, and what type are they?
+
+This query finds all equipment items marked as “Poor” condition. It also shows what type of equipment each item is. It joins equipment items with their corresponding equipment types. This helps managers identify equipment that may need repair or replacement. It ensures safety standards are maintained for customers. It also supports budgeting decisions for maintenance or new purchases.
+
+4. Which rental agreements has each customer made?
+
+This query shows which customers have made rental agreements. It includes customer details and the date of each rental. The results are ordered by rental date. This helps track customer activity and rental history. Managers can identify frequent renters or trends over time. It can also support marketing efforts or loyalty programs.
+
+5. Which trip types have the most registrations?
+
+This query counts how many times each trip type has been registered for. It groups results by trip and sorts them from most to least popular. This shows which trips have the highest demand. This helps managers understand which trips are most popular. It supports decisions about scheduling more of certain trips. It can also guide marketing and resource allocation.
+
+6. What is the total maintenance cost per equipment item?
+
+This query calculates the total maintenance cost for each equipment item. It adds up all maintenance expenses grouped by item number. The results are sorted from highest to lowest cost. This helps managers identify expensive equipment to maintain. It supports decisions about repairing versus replacing items. It also helps control costs and manage the maintenance budget.
+
+7.What maintenance has been completed?
+
+This query finds maintenance records where the status indicates completion. It uses REGEXP to match different variations of the word “completed”. This ensures that case sensitivity is not an issue. This helps managers track which maintenance tasks are finished. It ensures that equipment is properly serviced and ready for use. It also provides insight into workflow efficiency and completion rates.
+
+8. What equipment types are most frequently rented?
+
+This query counts how often each type of equipment is rented. It groups the data by equipment type and sorts it by frequency. This shows which equipment is used the most. This helps managers understand demand for different equipment types. It supports inventory planning and purchasing decisions. It also ensures popular items are sufficiently stocked.
+
+9. Which scheduled trips have the highest number of registrations?
+
+This query counts how many customers are registered for each scheduled trip. It groups results by trip and sorts them by the number of registrations. This highlights the busiest trips. This helps managers identify which specific trip dates are most popular. It supports decisions on adding more sessions or adjusting capacity. It also helps ensure proper staffing and resource allocation.
+
+10. Which customers are guests and who are their sponsors?
+
+This query lists guest customers and the sponsors who referred them. It links customers to other customers using the sponsor ID. This shows the relationship between guests and their sponsors.This helps ensure that all guests meet the requirement of having a sponsor. It allows managers to track who is responsible for each guest. It can also be useful for accountability and communication purposes.
+
+
 
 ## Database Information: 
 Name of database: mb_A2

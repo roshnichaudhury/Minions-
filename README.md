@@ -62,7 +62,8 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 ## Queries:
 1. Which scheduled trips are scheduled, and who is leading them?
-   
+   <img width="1709" height="799" alt="image" src="https://github.com/user-attachments/assets/73e44669-14b4-4b0a-a548-5dbb92d60fc8" />
+
 This query shows all scheduled trips along with the trip name and date. It also lists the staff member leading the trip and the assistant leader. The data is pulled by matching trip and staff IDs across multiple tables. This helps managers quickly see who is responsible for each trip. It ensures that every trip has proper staff coverage and leadership assigned. It can also be used to balance workloads among staff members.
 
 2. Which customers are registered for trips, and what is their registration status?

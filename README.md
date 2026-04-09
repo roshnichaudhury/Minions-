@@ -62,7 +62,7 @@ As an extension to the case, we added the Maintenance, Inspection, and Damage_Re
 
 ## Queries:
 
-<img width="787" height="454" alt="image" src="https://github.com/user-attachments/assets/03da403b-7a85-4824-a658-30af998724d0" />
+<img width="796" height="464" alt="image" src="https://github.com/user-attachments/assets/3000d779-63c2-4adc-bbce-e663613a9a6a" />
 
    1. Which scheduled trips are scheduled, and who is leading them?
 
